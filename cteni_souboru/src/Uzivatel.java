@@ -22,7 +22,7 @@ public class Uzivatel {
     }
 
     public Uzivatel(String cisloUzivatele, String nazev) {
-        this.cisloUzivatele = cislo;
+        this.cisloUzivatele = cisloUzivatele;
         this.nazev = nazev;
     }
 }
